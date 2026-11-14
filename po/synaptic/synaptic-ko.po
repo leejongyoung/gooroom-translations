@@ -497,6 +497,7 @@ msgid ""
 "Not all changes and updates succeeded. For further details of the failure, "
 "please expand the 'Details' panel below."
 msgstr ""
+"\n"
 "모든 변경 및 업데이트가 성공한 것은 아닙니다. 장애에 대한 자세한 내용은 아래 "
 "'상세 정보' 패널을 확장하십시오."
 
@@ -1144,7 +1145,7 @@ msgstr ""
 
 #: ../gtk/gsynaptic.cc:412
 msgid "Failed to initialize GTK.\n"
-msgstr "GTK를 초기화하지 못했습니다. "
+msgstr "GTK를 초기화하지 못했습니다.\n"
 
 #: ../gtk/gsynaptic.cc:414
 msgid "Probably you're running Synaptic on Wayland with root permission.\n"
